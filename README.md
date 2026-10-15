@@ -1,48 +1,58 @@
-# Hi, I'm Marouane 👋
+# Marouane Alaoui
 
-🎓 **Mathematics & Artificial Intelligence student**  
+**Mathematics & Artificial Intelligence Student · Aspiring Software Engineer**
+
 📍 Oujda, Morocco
 
-I'm building my foundations in programming, mathematics, and artificial intelligence through hands-on practice and small projects. I'm especially interested in understanding how software works, how data becomes useful insight, and how AI systems are built.
+I’m an S1 Mathematics and Artificial Intelligence student building a strong foundation in programming, mathematics, data, and intelligent systems. I learn by experimenting, building small projects, documenting what I discover, and improving each iteration.
 
-## About Me
+## About
 
-- 🎯 Currently studying **Mathematics and Artificial Intelligence (S1)**
-- 🧠 Learning Python, mathematics, data analysis, and machine learning fundamentals
-- 🌐 Exploring Linux, computer networks, and cybersecurity
-- 🛠️ Focused on practical projects, clear documentation, and continuous improvement
+- 🎓 Studying Mathematics and Artificial Intelligence
+- 💻 Learning Python, problem solving, and software development fundamentals
+- 🤖 Exploring data analysis and machine learning
+- 🌐 Practising Linux, computer networks, and cybersecurity fundamentals
+- 🧰 Building practical projects and learning professional Git/GitHub workflows
 
-## Current Learning Focus
+## Areas of Interest
 
-| Area | Focus |
-| --- | --- |
-| Programming | Python fundamentals, problem solving, clean code |
-| Mathematics | Logic, algebra, and foundations for AI |
-| Data & AI | Data analysis and introductory machine learning |
-| Systems & Networks | Linux, networking fundamentals, and security concepts |
-| Developer Workflow | Git, GitHub, documentation, and testing |
+**Software Engineering** · **Artificial Intelligence & Machine Learning** · **Data Analysis** · **Linux & Networking** · **Cybersecurity**
+
+## Technologies
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-learning-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-version%20control-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-projects-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-learning-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+*These are learning areas; I’ll update this section as I gain hands-on experience.*
 
 ## Projects
 
-I'm preparing this profile as a home for projects that demonstrate what I learn and build. As projects become ready to share, I'll add each repository here with a clear README, setup instructions, and examples.
+I’m preparing this profile to showcase practical work. Each project will have its own repository with a clear README, setup instructions, usage examples, and known limitations.
 
-<!-- Add featured projects here as public repositories become available. -->
+<!-- Add projects here as repositories become public.
+### Project Name
+One-sentence description of the problem it solves.
+**Built with:** Python, ...
+[Repository](https://github.com/MarouaneAlaouiismaili/REPOSITORY-NAME)
+-->
 
-## Tools & Technologies
+_No featured projects listed yet — this section will grow as projects are published._
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-version%20control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-learning-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+## Current Focus
 
-## Goals
+- Strengthen programming and mathematical foundations.
+- Build and publish small, complete projects.
+- Practise testing, documentation, and maintainable code.
+- Learn to evaluate AI systems carefully rather than relying on claims alone.
 
-- Build a solid foundation in mathematics and programming.
-- Turn what I learn into useful, well-documented projects.
-- Develop practical skills in AI, data, and software engineering.
+## How I Work
+
+I value clear documentation, reproducible steps, honest reporting of limitations, and gradual improvement through testing and feedback.
 
 ---
 
-*Learning step by step. Building with purpose.*
+*Learning consistently. Building practically. Improving step by step.*
