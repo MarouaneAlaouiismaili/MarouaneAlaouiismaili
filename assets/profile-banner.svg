@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Marouane Alaoui — Profile Banner</title>
+  <desc id="desc">A dark navy technical banner with cyan circuit details and an abstract neural network motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#081426"/>
+      <stop offset="55%" stop-color="#0B1D32"/>
+      <stop offset="100%" stop-color="#102A3D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4DE2C5"/>
+      <stop offset="100%" stop-color="#66B8FF"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#A4D8FF" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <path d="M0 282H270L304 248H470" fill="none" stroke="#4DE2C5" stroke-opacity=".24" stroke-width="2"/>
+  <path d="M820 0V62L852 94H1010L1040 124V360" fill="none" stroke="#66B8FF" stroke-opacity=".2" stroke-width="2"/>
+  <circle cx="270" cy="282" r="4" fill="#4DE2C5"/>
+  <circle cx="470" cy="248" r="4" fill="#66B8FF"/>
+  <circle cx="1010" cy="94" r="4" fill="#66B8FF"/>
+  <rect x="72" y="64" width="8" height="218" rx="4" fill="url(#accent)"/>
+  <text x="108" y="125" fill="#8FE9DA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="4">HELLO, WORLD — I'M</text>
+  <text x="104" y="190" fill="#F3F8FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="750" letter-spacing="1">MAROUANE ALAOUI</text>
+  <text x="108" y="232" fill="#BDD0E4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="400">Mathematics &amp; AI Student · Aspiring Software Engineer</text>
+  <rect x="108" y="258" width="322" height="34" rx="17" fill="#14364A" stroke="#4DE2C5" stroke-opacity=".6"/>
+  <circle cx="127" cy="275" r="4" fill="#4DE2C5" filter="url(#glow)"/>
+  <text x="141" y="281" fill="#C9FFF4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.4">LEARN  ·  BUILD  ·  ITERATE</text>
+  <g transform="translate(930 183)" stroke="url(#accent)" stroke-width="2" fill="none" stroke-linecap="round">
+    <circle r="76" stroke-opacity=".25"/>
+    <circle r="54" stroke-opacity=".45" stroke-dasharray="4 9"/>
+    <path d="M-56 -12L-24 -42L13 -30L48 -50M-56 -12L-28 25L11 14L45 43M-24 -42L-28 25M13 -30L11 14M48 -50L45 43" stroke-opacity=".85"/>
+    <circle cx="-56" cy="-12" r="6" fill="#0B1D32"/>
+    <circle cx="-24" cy="-42" r="6" fill="#0B1D32"/>
+    <circle cx="13" cy="-30" r="7" fill="#0B1D32"/>
+    <circle cx="48" cy="-50" r="5" fill="#0B1D32"/>
+    <circle cx="-28" cy="25" r="7" fill="#0B1D32"/>
+    <circle cx="11" cy="14" r="6" fill="#0B1D32"/>
+    <circle cx="45" cy="43" r="6" fill="#0B1D32"/>
+    <circle r="13" fill="#102A3D" stroke="#4DE2C5" filter="url(#glow)"/>
+    <path d="M-5 0H5M0 -5V5" stroke="#C9FFF4"/>
+  </g>
+  <text x="1094" y="326" text-anchor="end" fill="#9BB3C8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2">OUJDA · MOROCCO</text>
+</svg>
